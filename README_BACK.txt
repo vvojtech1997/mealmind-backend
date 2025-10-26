@@ -1,0 +1,1 @@
+Backend quickstart: cd backend && npm install && node index.js. Endpoints: GET /, GET /recipes.

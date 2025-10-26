@@ -1,0 +1,1 @@
+const express=require('express');const app=express();app.get('/',(r,s)=>s.json({status:'ok'}));app.get('/recipes',(r,s)=>s.json([]));app.listen(process.env.PORT||4000,()=>console.log('listening'));
