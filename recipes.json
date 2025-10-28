@@ -1,0 +1,7 @@
+[
+  {"id":1,"name":"Ovsená kaša s jablkom","time":10,"estimatedCost":1.5,"servings":2,"mealType":"breakfast","tags":["classic","healthy"],"ingredients":["100 g ovsené vločky","300 ml mlieko","1 jablko","1 PL med"],"image":"https://via.placeholder.com/400x300?text=Ovsen%C3%A1+ka%C5%A1a"},
+  {"id":2,"name":"Kurací šalát s avokádom","time":20,"estimatedCost":3.5,"servings":2,"mealType":"lunch","tags":["fit","protein"],"ingredients":["200 g kuracie prsia","50 g šalát","1/2 avokádo","1 PL olivový olej"],"image":"https://via.placeholder.com/400x300?text=Kurac%C3%AD+%C5%A1al%C3%A1t"},
+  {"id":3,"name":"Špagety s paradajkovou omáčkou","time":30,"estimatedCost":2.8,"servings":4,"mealType":"dinner","tags":["family"],"ingredients":["400 g špagety","200 g paradajky","1 cibuľa","2 PL olivový olej"],"image":"https://via.placeholder.com/400x300?text=%C5%A0pagety"},
+  {"id":4,"name":"Proteínové smoothie","time":5,"estimatedCost":2.0,"servings":1,"mealType":"breakfast","tags":["muscle"],"ingredients":["1 banán","200 ml mlieko","1 dávka proteínu"],"image":"https://via.placeholder.com/400x300?text=Smoothie"},
+  {"id":5,"name":"Zeleninová polievka","time":25,"estimatedCost":1.8,"servings":3,"mealType":"lunch","tags":["healthy"],"ingredients":["200 g zemiaky","150 g mrkva","1 cibuľa","soľ","voda"],"image":"https://via.placeholder.com/400x300?text=Polievka"}
+]
